@@ -1,4 +1,4 @@
-# End-to-End Web3 dApps(Certificate Generation Project)
+## End-to-End Web3 dApps (Certificate Generation)
 
 Automate the creation of personalized certificates with dynamic content using OpenAI API and OpenCV.
 
