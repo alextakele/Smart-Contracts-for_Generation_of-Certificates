@@ -1,15 +1,6 @@
-# Certificate Generation Project
+# End-to-End Web3 dApps(Certificate Generation Project)
 
 Automate the creation of personalized certificates with dynamic content using OpenAI API and OpenCV.
-
-## Table of Contents:
-
-- [Features](#features)
-- [Blockchain Integration](#blockchain-integration)
-- [Project Setup](#project-setup)
-- [Getting Started](#getting-started)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Features:
 
@@ -43,5 +34,6 @@ Automate the creation of personalized certificates with dynamic content using Op
 
 1. **Clone the Repo:**
    ```bash
-   git clone https://github.com/your-username/certificate-generation.git
+   git clone https://github.com/alextakele/certificate-generation.git
+   
 
