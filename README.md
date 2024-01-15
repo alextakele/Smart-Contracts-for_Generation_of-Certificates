@@ -34,6 +34,6 @@ Automate the creation of personalized certificates with dynamic content using Op
 
 1. **Clone the Repo:**
    ```bash
-   git clone https://github.com/alextakele/certificate-generation.git
+   git clone https://github.com/alextakele/Smart-Contracts-for_Generation_of-Certificates.git
    
 
