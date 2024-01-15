@@ -3,8 +3,7 @@ import requests
 from PIL import Image, ImageDraw, ImageFont
 
 # Set up OpenAI client
-openai.api_key = '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' # Replace this with your real API key
-
+openai.api_key = os.getenv('OPENAI_API_KEY')
 # Function for text-to-image generation using DALL-E API
 def generate(text):
  res = openai.Image.create(
